@@ -1,8 +1,7 @@
 # Images-Gallery
 Images Gallery using PixiJS and WebGL
 ---
-### Techniqeu
-| ![PixiJS](https://github.com/circusdirem/Images-Gallery/blob/master/.repofiles/icons/Pixijs.svg?raw=true) | ![WebGl](https://github.com/circusdirem/Images-Gallery/blob/master/.repofiles/icons/WebGl.svg?raw=true) |
+| ![PixiJS](https://raw.githubusercontent.com/circusdirem/Images-Gallery/main/.repofiles/icons/Pixijs.svg) | ![WebGl](https://raw.githubusercontent.com/circusdirem/Images-Gallery/main/.repofiles/icons/WebGl.svg) |
 
 ## Inspiration
 
@@ -11,3 +10,4 @@ Images Gallery using PixiJS and WebGL
 #### Chrome Extention:
 [Local Gallary](https://chrome.google.com/webstore/detail/localgalleryviewerextensi/opheklanmaieaeneebdohfpbjkhcgilk)
 [SlideShow](https://chrome.google.com/webstore/detail/slideshow/dhfkiofcnkapfpcpcpaindoikmimefnc)
+
